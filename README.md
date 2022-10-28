@@ -1,7 +1,7 @@
 # video_player_flutter
 
 A new Flutter project.
-App plays videos. video is shown in transition form. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
